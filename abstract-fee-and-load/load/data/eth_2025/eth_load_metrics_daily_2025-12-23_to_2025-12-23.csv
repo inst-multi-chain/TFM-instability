@@ -1,0 +1,2 @@
+mean_load,mae,rmse,p_over_target,p_over_threshold,runs_over_target,max_run_over_target,mean_run_over_target,chain,date,target,threshold,blocks,gas_used_total,tx_total,avg_tx_per_block
+0.5067469068931948,0.18663109790805316,0.23430559011519222,0.4383906119027661,0.09639564124056998,2064,7,1.5203488372093024,eth,2025-12-23,0.5,0.9,7158,217604034283,1913481,267.3206202849958

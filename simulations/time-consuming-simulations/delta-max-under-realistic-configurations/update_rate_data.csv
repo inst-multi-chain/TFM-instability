@@ -1,0 +1,8 @@
+name,update_rate,cross_shard_ratio,color,category
+Ethereum,0.125,0.0,#7A8BA3,Monolithic
+Asset Hub,0.000075,0.274,#6B9B7D,Polkadot
+Bifrost,0.000075,0.186,#6B9B7D,Polkadot
+Hydration,0.000075,0.216,#6B9B7D,Polkadot
+Moonbeam,0.004,0.433,#6B9B7D,Polkadot
+Cosmos Hub,0.125,0.245,#D98B8B,Cosmos
+Osmosis,0.1,0.119,#C77777,Cosmos

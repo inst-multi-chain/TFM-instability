@@ -1,0 +1,2 @@
+distribution,total_experiments,correct_predictions,accuracy,empirical_converged,nn_predicted_stable,true_positive,true_negative,false_positive,false_negative,mean_kappa_def,mean_kappa_att
+Spike,15939,12857,80.66378066378066,7614,4532,4532,8325,0,3082,19.699831173690544,3.7494112128961326

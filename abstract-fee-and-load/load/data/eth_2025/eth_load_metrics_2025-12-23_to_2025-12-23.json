@@ -1,0 +1,19 @@
+{
+  "mean_load": 0.5067469068931948,
+  "mae": 0.18663109790805316,
+  "rmse": 0.23430559011519222,
+  "p_over_target": 0.4383906119027661,
+  "p_over_threshold": 0.09639564124056998,
+  "runs_over_target": 2064,
+  "max_run_over_target": 7,
+  "mean_run_over_target": 1.5203488372093024,
+  "chain": "eth",
+  "start_date": "2025-12-23",
+  "end_date": "2025-12-23",
+  "target": 0.5,
+  "threshold": 0.9,
+  "blocks": 7158,
+  "gas_used_total": 217604034283,
+  "tx_total": 1913481,
+  "avg_tx_per_block": 267.3206202849958
+}
